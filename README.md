@@ -1,30 +1,3 @@
-Skip to content
-Pulls
-Issues
-Marketplace
-Explore
-@macyuri94
-maykbrito /
-nlw-10-copa
-Public
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-
-    Insights
-
-nlw-10-copa/README.md
-@maykbrito
-maykbrito add readme.md
-Latest commit a8a5f40 Oct 31, 2022
-History
-1 contributor
-46 lines (30 sloc) 1.26 KB
-
 <h1 align="center"> NLW #10 Copa </h1>
 
 <p align="center">
@@ -74,17 +47,3 @@ Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://disc
 Footer
 © 2022 GitHub, Inc.
 Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-nlw-10-copa/README.md at main · maykbrito/nlw-10-copa
